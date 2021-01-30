@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #dde0e3;
+    font-family: "helvetica", "arial", sans-serif;
+}
+
+h1{
+    margin: 30px auto 50px;
+    width: 275px;
+}
+
+h2 {
+    margin: 0px auto 15px;
+    width: 180px;
+}
+
+p {
+    text-align: center;
+}
+
+.intro {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.lists {
+    list-style: round;
+    width: 450px;
+    margin: 0px auto;
+    font-size: 24px;
+}
+
+.projects {
+    list-style: round;
+    margin: 5px 30px;
+    font-size: 16px;
+}
+
+#projects-2 {
+    font-size: 18px;
+}
+
+.navigation {
+    float: left;
+    margin: 0px 10px;
+    list-style-type: none;
+}
+
+li {
+    margin: 0px 0px 5px;
+}
+
+hr {
+    margin: 450px auto 0px;
+}
+
+footer {
+    margin: 10px auto 50px;
+    width: 1000px;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+color: purple;
+}
+a:hover {
+color: aqua;
+text-decoration: underline;
+}
+a:active {
+color: red;
+}
